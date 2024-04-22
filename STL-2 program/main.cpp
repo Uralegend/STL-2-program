@@ -1,3 +1,6 @@
+// Brenton Graham
+// CIS 1202 501
+// April 22, 2024
 #include <iostream>
 #include <cmath> // For the round function
 
